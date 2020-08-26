@@ -1,0 +1,98 @@
+*{
+margin:0 ;
+padding: 0;
+}
+
+.principal{
+    background-color: teal;
+   
+    
+  
+    
+    
+}
+.navbar{
+   
+    display: flex;
+    background-color: red;
+    margin:40px ;
+   
+}
+
+.logo{
+    
+    background-color: yellow    ;
+    margin:10px ;
+    align-self:flex-start ;
+}
+/* links */
+.link{
+    background-color: purple;    
+    
+    margin:10px ;
+    border:4px  #000;
+    align-self:flex-start ;
+    width: 589px;
+    
+}
+.titulos{
+    background-color: tomato;
+   justify-content:space-around ;
+   display: flex;
+
+    
+   
+    padding: 5px;
+    margin: 5px ;
+}
+
+.titulos li{
+    background-color: yellow;
+    display: inline-block;
+    padding: 5px 0 5px 0 ;
+    list-style: none;
+    
+    
+
+    
+}
+/*sub*/
+.subtitulos{
+         
+    border : 4px dashed green;
+    background-color: lightseagreen;
+    margin: 24px 0 24px 0;
+    display: none;
+      
+}
+
+
+.lazyload{
+    width: 100px;
+}
+.subtitulos li {
+    background-color: rosybrown;
+    list-style: none;
+    margin:20px ;
+    display: inline-block;
+    
+
+}
+/*login*/
+.login{
+    
+    background-color:rgb(201, 69, 135);
+    margin:10px ;
+    align-self:flex-start ;
+   
+}
+
+
+/* deivicoperfile */
+
+.active{
+    
+display: block;
+    
+  
+}
