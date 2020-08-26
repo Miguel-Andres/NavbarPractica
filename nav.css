@@ -84,9 +84,18 @@ padding: 0;
     background-color:rgb(201, 69, 135);
     margin:10px ;
     align-self:flex-start ;
+    display: flex;
    
 }
-
+.login ul {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+}
+.login ul li{
+    margin : 15 px;
+    background-color: aqua;
+}
 
 /* deivicoperfile */
 
